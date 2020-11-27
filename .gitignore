@@ -1,0 +1,4 @@
+.env
+__pycache__
+Ressources/retweet_numbers/*.txt
+Ressources/tweets/*.txt
